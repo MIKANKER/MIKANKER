@@ -1,0 +1,4 @@
+Para la ejecución correcta de los programas es necesario entrar en la ventana “principal” y “ejecutar” de ambos 
+programas e insertar el comando shift+f6.
+
+En la calculadora simplemente shift+f6.

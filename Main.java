@@ -18,6 +18,6 @@ class Main {
 
     System.out.println(" Digite el precio del Producto: ");
     double prod = les.nextInt();
-    System.out.println(" El precio del producto es: ");
+    System.out.println(" El precio del producto es: "+prod );
   }
 }
